@@ -16,4 +16,5 @@ if __name__ == '__main__':
     n = int(input("Enter the number of prerequisites: "))
     print("Enter prerequisites seperated by space")
     prerequisites = [input().split() for _ in range(n)]
+    print("\nOutput")
     course_analysis(numCourse,prerequisites)
