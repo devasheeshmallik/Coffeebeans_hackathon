@@ -21,6 +21,7 @@ Run this file with python interpreter version 3.7
 
 #Bangalore Circus - DAY 3 || Ancient Bangalore Circus||
   Run this file with python interpreter version 3.7
+  Paste the data file in "Bangalore_circus.py" file's directory
   Then enter filename with extension (.txt/.csv)
   For CSV file data should be like this - ![image](https://user-images.githubusercontent.com/54945072/155508505-18df2144-00c1-407a-8701-b0540ae3c5ca.png)
   For TXT file data should be like this - ![image](https://user-images.githubusercontent.com/54945072/155508687-b05b2b2b-c638-4e92-91d1-841645c5e639.png)
