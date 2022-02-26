@@ -27,3 +27,6 @@ Run this file with python interpreter version 3.7
   For TXT file data should be like this - ![image](https://user-images.githubusercontent.com/54945072/155508687-b05b2b2b-c638-4e92-91d1-841645c5e639.png)
   
   
+#Crime Master GOGO - DAY 5|| 
+  Run this file with python interpreter version 3.7
+  
